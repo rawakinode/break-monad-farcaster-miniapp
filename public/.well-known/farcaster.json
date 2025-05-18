@@ -1,0 +1,17 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOjc3MjAyNywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDExOUVCZDVFMzYxNWEyMDhCMTNCNmUwMzRjMUE5ZTZGRDhlM2JEQjgifQ",
+        "payload": "eyJkb21haW4iOiJtb25ldGljbGUucmF3YWtpLnh5eiJ9",
+        "signature": "MHg1NGE0OTM4MjgxZmExODBjNmY4ZjExZDBhODkxODMwZWI0ZjE0NDI2NTEyYWYwYzY5NTQ0M2M5OWU3ZGZjODEyMjk4M2E1NmE1OGY0ZTc4YWMzMjgwM2U0MjU3ZTkyMzFiNGUyYTg1NDM5MGYzOGQ3NWViNmY0OWNhNmJhYzA4OTFi"
+    },
+    "frame": {
+        "version": "1",
+        "name": "Moneticle",
+        "iconUrl": "https://moneticle.rawaki.xyz/moneticle_logo_1024.png",
+        "homeUrl": "https://moneticle.rawaki.xyz/",
+        "imageUrl": "https://moneticle.rawaki.xyz/images/moneticle.png",
+        "buttonTitle": "Read Article Now",
+        "splashImageUrl": "https://moneticle.rawaki.xyz/moneticle_logo_1024.png",
+        "splashBackgroundColor": "#rgb(14, 14, 14)"
+    }
+}

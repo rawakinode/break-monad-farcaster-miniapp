@@ -1,0 +1,36 @@
+{
+  "name": "break-monad-farcaster-miniapp",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@farcaster/frame-sdk": "^0.0.36",
+    "@farcaster/frame-wagmi-connector": "^0.0.24",
+    "@heroicons/vue": "^2.2.0",
+    "@tanstack/vue-query": "^5.75.7",
+    "@tiptap/extension-code-block": "^2.12.0",
+    "@tiptap/extension-image": "^2.12.0",
+    "@tiptap/extension-link": "^2.12.0",
+    "@tiptap/extension-placeholder": "^2.12.0",
+    "@tiptap/pm": "^2.12.0",
+    "@tiptap/starter-kit": "^2.12.0",
+    "@tiptap/vue-3": "^2.12.0",
+    "@wagmi/core": "^2.17.1",
+    "@wagmi/vue": "^0.1.18",
+    "axios": "^1.9.0",
+    "crypto-random-string": "^5.0.0",
+    "lucide-vue-next": "^0.508.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1",
+    "wagmi": "^2.14.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
